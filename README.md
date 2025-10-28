@@ -17,7 +17,7 @@ Ce projet simule un réseau local (LAN) dans Cisco Packet Tracer. Il inclut un r
 3. Teste la connectivité avec des pings (voir captures).
 
 ## Captures d’écran
-- [Configuration routeur](Captures/routeur_config.png)
+- [Configuration routeur](Simulation-LAN/Captures/routeur_config.png)
 - [DHCP binding](Captures/dhcp_binding.png)
 - [PC1 - ipconfig](Captures/pc1_ipconfig.png)
 
