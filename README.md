@@ -18,8 +18,8 @@ Ce projet simule un réseau local (LAN) dans Cisco Packet Tracer. Il inclut un r
 
 ## Captures d’écran
 - [Configuration routeur](Simulation-LAN/Captures/routeur_config.png)
-- [DHCP binding](Captures/dhcp_binding.png)
-- [PC1 - ipconfig](Captures/pc1_ipconfig.png)
+- [DHCP binding](Simulation-LAN/Captures/dhcp_binding.png)
+- [PC1 - ipconfig](Simulation-LAN/Captures/pc1_ipconfig.png)
 
 ## Rapport
 Voir le rapport complet : [Rapport/rapport_simulation_lan.pdf](Rapport/rapport_simulation_lan.pdf)
