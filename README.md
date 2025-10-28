@@ -21,8 +21,14 @@ Ce projet simule un réseau local (LAN) dans Cisco Packet Tracer. Il inclut un r
 - [DHCP binding](Simulation-LAN/Captures/dhcp_binding.png)
 - [PC1 - ipconfig](Simulation-LAN/Captures/pc1_ipconfig.png)
 
+  ## Fichiers
+- **[📄 Ouvrir le rapport PDF](Rapport/rapport_simulation_lan.pdf)** ← **Cliquable !**
+- **[📦 Télécharger le fichier Packet Tracer (.pkt)](PacketTracer/simulation_lan.pkt)** ← **Téléchargeable**
+
+> *Le fichier `.pkt` doit être ouvert avec **Cisco Packet Tracer** (téléchargeable sur NetAcad).*
+
 ## Rapport
 Voir le rapport complet : [Rapport/rapport_simulation_lan.pdf](Simulation-LAN/Rapport/rapport_simulation_lan.pdf)
 
-## Licence
-MIT
+---
+*Projet réseau – Portfolio GitHub*
