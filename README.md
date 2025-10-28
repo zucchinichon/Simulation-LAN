@@ -22,7 +22,7 @@ Ce projet simule un réseau local (LAN) dans Cisco Packet Tracer. Il inclut un r
 - [PC1 - ipconfig](Simulation-LAN/Captures/pc1_ipconfig.png)
 
 ## Rapport
-Voir le rapport complet : [Simulation-LAN/Rapport/rapport_simulation_lan.pdf](Rapport/rapport_simulation_lan.pdf)
+Voir le rapport complet : [Rapport/rapport_simulation_lan.pdf](Simulation-LAN/Rapport/rapport_simulation_lan.pdf)
 
 ## Licence
 MIT
